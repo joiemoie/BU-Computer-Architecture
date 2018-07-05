@@ -1,0 +1,279 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/joiemoie/Downloads/ec513-project/hardware
+T_opt
+Z1 V[5[7YY858n?IS8ZeQ_DXk2
+Z2 04 14 4 work tb_RISC_V_Core fast 0
+Z3 =1-4439c4348caa-5ad8a378-923fc-281b
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.6b;45
+Z7 d/home/joiemoie/Downloads/ec513-project/hardware
+T_opt1
+VPQWjS4Kh9ogY<oKzo1NGO2
+R2
+Z8 =1-4439c4348caa-5ad8b916-39dd9-3242
+Z9 o-quiet -auto_acc_if_foreign -work work +acc
+Z10 n@_opt1
+R6
+R7
+vALU
+Z11 IGYoB0i2CMRCZSUHbT[Kdj1
+Z12 VaF>^:Sn5VidSIe=@oM3@f3
+R7
+Z13 w1522385006
+Z14 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/ALU.v
+Z15 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/ALU.v
+L0 23
+Z16 OE;L;6.6b;45
+r1
+31
+Z17 o-work work
+Z18 n@a@l@u
+Z19 !s100 QkfH0?HP5[;z7jo[H;FZ=0
+!s85 0
+vBRAM
+Z20 IgI@FeWkeXP05GEW6oVf<a0
+Z21 V1KTV7c]5mBX9lc^KOUQon2
+R7
+Z22 w1522385008
+Z23 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/bram.v
+Z24 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/bram.v
+L0 24
+R16
+r1
+31
+R17
+Z25 n@b@r@a@m
+Z26 !s100 L7hTkjX<nnVRHWGV9KZii0
+!s85 0
+vBSRAM
+Z27 I115`EL?QFbK5m]4L>QZl>3
+Z28 V^n4<YNVnk`a?Sj=`G]G3<3
+R7
+R22
+Z29 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/bsram.v
+Z30 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/bsram.v
+L0 26
+R16
+r1
+31
+R17
+Z31 n@b@s@r@a@m
+Z32 !s100 ;1Y1AD5F9QH_OJ?iHzQmZ2
+!s85 0
+vcontrol_unit
+Z33 IiRE_C=:^`gSzPaOf2PScE3
+Z34 VoOz4J=[mm6lnoRCb_=;ac3
+R7
+Z35 w1524085875
+Z36 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/control_unit.v
+Z37 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/control_unit.v
+L0 29
+R16
+r1
+31
+R17
+Z38 !s100 Sa1F_3DO6ZAaeT49R:O@]0
+!s85 0
+vcontrol_unit_buffer
+Z39 Ie`F]z:aVBDeEWJNZN@W891
+Z40 VYbBd@CG]dK1MD7;[VPNWR1
+R7
+Z41 w1523999812
+Z42 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/control_unit_buffer.v
+Z43 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/control_unit_buffer.v
+L0 1
+R16
+r1
+31
+R17
+Z44 !s100 GE=n3;[m01^:DKohNQPlY0
+!s85 0
+vdecode_buffer
+Z45 IV4EodbmW`Tm_TPWB12W6N3
+Z46 V^g:Mh5FzW>W;D_DggB_Id0
+R7
+Z47 w1524147000
+Z48 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/decode_buffer.v
+Z49 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/decode_buffer.v
+L0 1
+R16
+r1
+31
+R17
+Z50 !s100 4RkcUZ:aXcQiED@B8Vfk21
+!s85 0
+vdecode_unit
+Z51 IfoZ3NM91W@gl;4Q?NK>2]3
+Z52 Ve@nN`gk]L1LoShlR0W0bb1
+R7
+Z53 w1524147029
+Z54 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/decode.v
+Z55 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/decode.v
+L0 23
+R16
+r1
+31
+R17
+Z56 !s100 0aLW=FeZ666bR`]BgJAVT3
+!s85 0
+vexecute_buffer
+Z57 Il89Ebk6MI?jhG_zRSz_Ii1
+Z58 V5hUDS6hWK8Sa=88f9j6<f2
+R7
+Z59 w1524152563
+Z60 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/execute_buffer.v
+Z61 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/execute_buffer.v
+L0 1
+R16
+r1
+31
+R17
+Z62 !s100 L>D>5HTXeXVcOOKXb^cX92
+!s85 0
+vexecution_unit
+Z63 I<hDBKC^nQcGj<9FmHh2ZU2
+Z64 V@nChJDd2476B0gKfjX>5:0
+R7
+R22
+Z65 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/execute.v
+Z66 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/execute.v
+L0 24
+R16
+r1
+31
+R17
+Z67 !s100 g]g>DkLk]5C8TKX;@J^gP3
+!s85 0
+vfetch_buffer
+Z68 IjbNlmVE^3fd_CA`2F9[6A2
+Z69 VMfoIf1Mn9fA[b=MP:TFg]0
+R7
+Z70 w1524150561
+Z71 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/fetch_buffer.v
+Z72 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/fetch_buffer.v
+L0 1
+R16
+r1
+31
+R17
+Z73 !s100 ?g`njN]VcO0c1[Y5iFljZ2
+!s85 0
+vfetch_unit
+Z74 IgTNl[CBKR7HoFl=4?Y2gb3
+Z75 V6N]WONELSkc?I`SK_g]Xc2
+R7
+Z76 w1524152482
+Z77 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/fetch.v
+Z78 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/fetch.v
+L0 23
+R16
+r1
+31
+R17
+Z79 !s100 ;Nm1lbn4M=B81Wj@m:^EW2
+!s85 0
+vmem_interface
+Z80 IJDV[KmB4C0[;Li6F1PJNC0
+Z81 VHB5=AO_P1<:;44QSYdL0T1
+R7
+R22
+Z82 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/mem_interface.v
+Z83 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/mem_interface.v
+L0 22
+R16
+r1
+31
+R17
+Z84 !s100 9Pa9WOla]=dD2=MRY4k`g2
+!s85 0
+vmemory_buffer
+Z85 I8T[<EOk_X@=i2EGCUkF`P3
+Z86 Vz@7azGHZP]EaYfIo1h]RC0
+R7
+Z87 w1524001541
+Z88 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/memory_buffer.v
+Z89 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/memory_buffer.v
+L0 1
+R16
+r1
+31
+R17
+Z90 !s100 <>Z13BbG7lPYLXeKYW`Xc0
+!s85 0
+vmemory_unit
+Z91 IcSZmQZzCSZQ8`kmM9m0_71
+Z92 VR]07Ho;^TbCRVRQAC@@lT0
+R7
+R22
+Z93 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/memory.v
+Z94 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/memory.v
+L0 23
+R16
+r1
+31
+R17
+Z95 !s100 Taj4KO]<;a2R]:@=>M:Wo3
+!s85 0
+vregFile
+Z96 IA?@2_7hCoj6RcASefQi<B2
+Z97 VkGdKZUzJQ<R8?0ijV]]m]1
+R7
+R22
+Z98 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/regFile.v
+Z99 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/regFile.v
+L0 24
+R16
+r1
+31
+R17
+Z100 nreg@file
+Z101 !s100 ;>V6aE0OFfmE=Q429cTQM2
+!s85 0
+vRISC_V_Core
+Z102 I@>U7ZX@7jLfR=FX4T6ZZe3
+Z103 VUHfSn=kleCY`fczz@9R:F3
+R7
+Z104 w1524152587
+Z105 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/RISC_V_Core.v
+Z106 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/RISC_V_Core.v
+L0 24
+R16
+r1
+31
+R17
+Z107 n@r@i@s@c_@v_@core
+Z108 !s100 zYlBdRMjK@^UNOE_hWCac3
+!s85 0
+vtb_RISC_V_Core
+Z109 IkzW?k6jM9SB=0j00N1omE3
+Z110 V3?IaKQ;^EEE260@a2S@JC2
+R7
+R22
+Z111 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/tb_RISC_V_Core.v
+Z112 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/tb_RISC_V_Core.v
+L0 24
+R16
+r1
+31
+R17
+Z113 ntb_@r@i@s@c_@v_@core
+Z114 !s100 2m7H10kS`zGOegEjQF9d_3
+!s85 0
+vwriteback_unit
+Z115 IAd[Kd?iMVS>AMNoLPiEQY3
+Z116 VHDPm5FX_LW2CaQ7Z:gjTG0
+R7
+R22
+Z117 8/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/writeback.v
+Z118 F/ad/eng/users/j/o/joiemoie/Downloads/ec513-project/hardware/src/writeback.v
+L0 22
+R16
+r1
+31
+R17
+Z119 !s100 gJ5P5ok2Qkoa?zXYDUIAi0
+!s85 0
